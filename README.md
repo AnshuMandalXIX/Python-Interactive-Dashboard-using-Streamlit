@@ -13,4 +13,4 @@ This was done on Excel
 -Data cleaning and analysis
 
 # Data Visualization:
-Using Plotly to define visual insights on Visual Studio Code
+Using Plotly in python to define visual insights on Visual Studio Code 
