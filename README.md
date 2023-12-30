@@ -14,3 +14,9 @@ This was done on Excel
 
 # Data Visualization:
 Using Plotly in python to define visual insights on Visual Studio Code 
+
+# Snapshot:
+![1Dashboard img](https://github.com/AnshuMandalXIX/Python-Interactive-Dashboard-using-Streamlit/assets/127351117/6580e5c4-5763-4f7e-af72-873be08f3593)
+![2Dashboard img](https://github.com/AnshuMandalXIX/Python-Interactive-Dashboard-using-Streamlit/assets/127351117/ae5d71f2-70da-4584-82c0-7ee981c7159d)
+![3Dashboard img](https://github.com/AnshuMandalXIX/Python-Interactive-Dashboard-using-Streamlit/assets/127351117/ec1e363e-219e-41bd-a8a9-16643b319df8)
+![4Dashboard img](https://github.com/AnshuMandalXIX/Python-Interactive-Dashboard-using-Streamlit/assets/127351117/ab74ed4d-d35f-4253-bf3a-a813e6342124)
