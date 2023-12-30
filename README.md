@@ -8,9 +8,9 @@ Superstore Sales Dataset: https://community.tableau.com/s/question/0D54T00000CWe
 # Data Cleaning & Analysis:
 This was done on Excel
 
--Data loading & reviewing
--Handling Datetime and Null values
--Data cleaning and analysis
+- Data loading & reviewing
+- Handling Datetime and Null values
+- Data cleaning and analysis
 
 # Data Visualization:
 Using Plotly in python to define visual insights on Visual Studio Code 
